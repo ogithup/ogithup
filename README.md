@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @ogithup
-- 👀 I’m interested in software development, data science, and open-source projects.
-- 🌱 I’m currently learning python for machine learning and C++ for data structures
-- 💞️ I’m looking to collaborate on innovative projects that make a difference.
-- 📫 How to reach me oguz_aladag06@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @ogithup
 
-<!---
-ogithup/ogithup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 I’m interested in **software development**, **data science**, **machine learning**, and **open-source projects**.
+- 🤖 I’m currently developing **AI-based projects** to explore real-world applications of artificial intelligence.
+- 🌱 I’m learning **Python for machine learning** and working with **MySQL** to build data-driven systems.
+- 🛠️ I’m actively integrating **MySQL** into my projects to strengthen my understanding of database management and backend development.
+- 🤝 I’m looking to collaborate on **innovative projects** that have meaningful impact.
+- 📫 How to reach me: **oguz_aladag06@hotmail.com**
+- ⚡ Fun fact: I enjoy turning complex problems into elegant code solutions.
+
