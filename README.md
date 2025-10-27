@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ogithup
+#  Hi, I’m @ogithup
 
 - I’m interested in **software development**, **data science**, **machine learning**, and **open-source projects**.
 - I’m currently developing **AI-based projects** to explore real-world applications of artificial intelligence.
