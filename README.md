@@ -1,9 +1,22 @@
-#  Hi, I’m @ogithup
+# Hi, I’m @ogithup
+I’m passionate about **software development**, **data science**, **machine learning**, and **open-source**.
 
-- I’m interested in **software development**, **data science**, **machine learning**, and **open-source projects**.
-- I’m currently developing **AI-based projects** to explore real-world applications of artificial intelligence.
-- I’m learning **Python for machine learning** and working with **MySQL** to build data-driven systems.
-- I’m actively integrating **MySQL** into my projects to strengthen my understanding of database management and backend development.
-- I’m looking to collaborate on **innovative projects** that have meaningful impact.
+## Currently
+- Developing **AI-based projects** focused on real-world impact  
+- Strengthening my skills in **Python for Machine Learning**  
+- Building data-driven systems  
+- Designing scalable **backend architectures**
 
+## Learning & Growing
+- Advanced **Machine Learning** workflows  
+- **Database design** and optimization  
+- **AI system integration** into production-ready backends  
 
+## Collaboration
+I’m open to collaborating on **innovative and impactful projects**, especially in:
+- Artificial Intelligence  
+- Data-driven platforms  
+- Scalable backend systems  
+
+---
+ *Always building, always learning.*
